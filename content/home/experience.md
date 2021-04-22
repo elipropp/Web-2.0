@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
 title: Experience
 subtitle:
@@ -42,7 +42,9 @@ experience:
     date_start: "2020-05-11"
     date_end: "2020-08-21"
     description: |2-
-        FILL IN LATER
+        Adaptive Networks is a powerline communications company, providing an alternative to dedicated wire and wireless solutions which are often not suitable for harsh and industrial environments, using the pre-existing powerline cables.
+
+        While at Adaptive Networks, most of my time was spent working on their testbench software, specifically working towards faster and more efficient product setup for testing, as well as data retrieval post-test. These improvements allow for more rapid testing of the company's products, as total time per test has been decreased.
 
 design:
   columns: "2"
