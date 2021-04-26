@@ -14,12 +14,14 @@ organizations:
     url: https://uwaterloo.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Let's see where this bio shows up
 
 # Interests to show in About widget
 interests:
-  - CHANGE LATER
-
+  - Data Science
+  - Machine Learning & AI
+  - Software Development
+  - Fitness & Health
 # Education to show in About widget
 education:
   courses:
@@ -34,7 +36,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: "mailto:eli.propp@gmail.com"
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -51,12 +53,12 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/elipropp/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
+  # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: static/media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,6 +67,8 @@ email: ""
 highlight_name: false
 ---
 
-I'm a computer engineering student who's
+I'm a computer engineering student who's passionate about all things tech and software. Currently I'm exploring the world of data science and deep learning.
+
+Outside of technology I'm passionate about health, fitness and learning about the body, like to play basketball and love to travel.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

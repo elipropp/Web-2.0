@@ -25,26 +25,22 @@ experience:
   - title: Software Developer
     company: Molex Canada Ltd.
     company_url: "https://www.molex.com/"
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Waterloo, Canada
-    date_start: "2021-01-01"
-    date_end: ""
+    date_start: "2021-01-11"
+    date_end: "2021-04-23"
     description: |2-
-        Responsibilities include:
-        
-        * FILL IN LATER
+        I created and maintained different REST APIs and updated the database as needed. Together with my team lead, I integrated a library/tool that greatly improved the development process and client side efficiency. The tool allowed for more rapid frontend development, simpler backend maintenance and increased scalability.
 
   - title: Test Automation Developer
     company: Adaptive Networks Ltd.
     company_url: ""
-    company_logo: org-x
+    # company_logo: org-x
     location: Vaughan, Canada
     date_start: "2020-05-11"
     date_end: "2020-08-21"
     description: |2-
-        Adaptive Networks is a powerline communications company, providing an alternative to dedicated wire and wireless solutions which are often not suitable for harsh and industrial environments, using the pre-existing powerline cables.
-
-        While at Adaptive Networks, most of my time was spent working on their testbench software, specifically working towards faster and more efficient product setup for testing, as well as data retrieval post-test. These improvements allow for more rapid testing of the company's products, as total time per test has been decreased.
+        I was the sole developer responsible for designing and implementing new product testing features for the company's test-bench application, optimizing for intuitive and efficient functionality. My contributions improved employee workflow by allowing users to setup tests much faster and save testing configurations.
 
 design:
   columns: "2"
