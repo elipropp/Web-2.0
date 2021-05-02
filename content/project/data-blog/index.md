@@ -16,7 +16,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Repo
-    url: https://datavizblog.herokuapp.com/
+    url: https://github.com/elipropp/Data-Blog
 url_code: ""
 url_pdf: ""
 url_slides: ""

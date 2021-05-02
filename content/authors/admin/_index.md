@@ -14,7 +14,7 @@ organizations:
     url: https://uwaterloo.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Let's see where this bio shows up
+bio:
 
 # Interests to show in About widget
 interests:
@@ -56,9 +56,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: static/media/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: static/media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +71,4 @@ I'm a computer engineering student who's passionate about all things tech and so
 
 Outside of technology I'm passionate about health, fitness and learning about the body, like to play basketball and love to travel.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

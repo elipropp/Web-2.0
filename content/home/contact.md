@@ -29,4 +29,4 @@ design:
   columns: "2"
 ---
 
-The best way to contact me is via email or LinkedIn. Click on the mail or LI icon under my profile at the top to use either method.
+The best way to contact me is via email or LinkedIn. Click on the mail or LinkedIn icon under my profile at the top to use either method.
